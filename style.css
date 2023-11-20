@@ -1,0 +1,9 @@
+.countDiv {
+    display: block;
+    text-align: center;
+}
+#countlb {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
