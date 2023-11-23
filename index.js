@@ -182,10 +182,3 @@ if (!sunny) {
 else{
     console.log("Sunny day!");
 }    
-
-// 16. while loop
-let userFullName = "";
-while(userFullName == "" || userFullName == null){
-    userFullName = window.prompt("Enter your full name")
-    }
-    console.log("Hello", userFullName);
